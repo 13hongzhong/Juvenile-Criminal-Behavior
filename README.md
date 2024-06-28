@@ -6,5 +6,3 @@ The question we want to address with our dataset is whether there is any correla
 
 To view the full results, please visit https://docs.google.com/document/d/1ywYjkcejjRDPUQWjZoTm86xwvjdZjUHTvv7mkY5O3fw/edit?usp=sharing
 
-# Methodology
-Clustering is one of the most common exploratory data analysis techniques used to get an intuition about the structure of the data. In this project, we will focus on clustering assignments using K-means clustering and hierarchical clustering. Both models are effective for unsupervised learning and assist in analyzing the patterns as well as the relationships between variables.
